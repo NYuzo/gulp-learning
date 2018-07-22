@@ -1,0 +1,23 @@
+{
+  "name": "gulp-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.0.1",
+    "browser-sync": "^2.24.6",
+    "csswring": "^7.0.0",
+    "gulp": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "postcss-flexbugs-fixes": "^4.0.0"
+  }
+}
