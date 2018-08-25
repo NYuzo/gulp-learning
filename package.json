@@ -17,7 +17,6 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-postcss": "^7.0.1",
     "gulp-sass": "^4.0.1",
-    "gulp-uglify": "^3.0.0",
-    "postcss-flexbugs-fixes": "^4.0.0"
+    "gulp-uglify": "^3.0.0"
   }
 }

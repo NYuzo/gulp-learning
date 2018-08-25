@@ -2,7 +2,6 @@ const gulp = require('gulp')
 const sass = require('gulp-sass')
 const postcss = require('gulp-postcss')  
 const autoprefixer = require('autoprefixer')
-const flexBugsFixes = require('postcss-flexbugs-fixes')
 const cssWring = require('csswring')
 const uglify = require('gulp-uglify')
 const imagemin = require('gulp-imagemin')
@@ -19,7 +18,6 @@ const autoprefixerOption = {
 }
 
 const postcssOption = [
-  flexBugsFixes,
   autoprefixer(autoprefixerOption),
   cssWring
 ]
