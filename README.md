@@ -1,23 +1,16 @@
 # gulp-learning
 
-## Setup
-
-リポジトリーををクローンする
+git clone
 ```
 git clone https://github.com/NYuzo/gulp-learning.git
 ```
 
-リポジトリーへ移動
-```
-cd gulp-learning
-```
-
-必要モジュールをインストールする
+install
 ```
 npm i
 ```
 
-gulp起動
+start
 ```
 npx gulp
 ```
